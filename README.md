@@ -9,6 +9,6 @@ Please cite as
     @article{heaton2022global,
       title={Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs},
       author={Heaton, Howard and Fung, Samy Wu and Osher, Stanley},
-      journal={arXiv preprint arXiv:2202.11014},
+      journal={Communications on Applied Mathematics and Computation},
       year={2022}
     }
