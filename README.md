@@ -2,7 +2,7 @@
 
 ## Associated Publication
 
-_Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs_ (**[arXiv Link](https://arxiv.org/abs/2202.11014)**)
+_Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs_ (**[Preprint](https://arxiv.org/abs/2202.11014)**, **[Reprint](https://link.springer.com/article/10.1007/s42967-022-00239-5)**)
 
 Please cite as
     
