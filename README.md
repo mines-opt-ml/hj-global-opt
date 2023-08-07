@@ -6,9 +6,11 @@ _Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs_ (*
 
 Please cite as
     
-    @article{heaton2022global,
-      title={Global Solutions to Nonconvex Problems by Evolution of Hamilton-Jacobi PDEs},
-      author={Heaton, Howard and Fung, Samy Wu and Osher, Stanley},
+    @article{heaton2023global,
+      title={Global solutions to nonconvex problems by evolution of hamilton-jacobi pdes},
+      author={Heaton, Howard and Wu Fung, Samy and Osher, Stanley},
       journal={Communications on Applied Mathematics and Computation},
-      year={2022}
+      pages={1--21},
+      year={2023},
+      publisher={Springer}
     }
